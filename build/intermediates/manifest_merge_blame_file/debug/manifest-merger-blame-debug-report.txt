@@ -1,0 +1,26 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.facebook.shimmer" >
+4
+5    <uses-sdk android:minSdkVersion="14" />
+5-->D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:6:5-67
+7-->D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:6:22-64
+8
+9    <application
+9-->D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:9:5-17:19
+10        android:allowBackup="true"
+10-->D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:10:9-35
+11        android:supportsRtl="true" >
+11-->D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:11:9-35
+12        <meta-data
+12-->D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:12:13-14:40
+13            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+13-->D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:13:17-73
+14            android:value="true" />
+14-->D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:14:17-37
+15    </application>
+16
+17</manifest>

@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:4:3-33
+		INJECTED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml
+		INJECTED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:3:3-61
+uses-permission#android.permission.INTERNET
+ADDED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:9:5-17:19
+	android:supportsRtl
+		ADDED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:10:9-35
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:12:13-14:40
+	android:value
+		ADDED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:14:17-37
+	android:name
+		ADDED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml:13:17-73
+uses-sdk
+INJECTED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml
+INJECTED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml
+		ADDED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml
+		INJECTED from D:\Sagar\Other Work\MakeDemoSp\shimmer\src\main\AndroidManifest.xml
