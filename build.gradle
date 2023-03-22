@@ -1,23 +1,16 @@
-/*
- * Copyright (c) Meta Platforms, Inc. and affiliates.
- * All rights reserved.
- *
- * This source code is licensed under the BSD-style license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
 apply plugin: 'com.android.library'
+apply plugin: 'maven-publish'
 
 android {
-  compileSdkVersion versions.compileSdk
+  compileSdkVersion 33
 
   defaultConfig {
-    minSdkVersion versions.minSdk
+    minSdkVersion 14
   }
 }
 
 dependencies {
-  implementation deps.androidXAnnotations
+  implementation 'androidx.annotation:annotation:1.0.1'
   //implementation 'com.google.firebase:firebase-ads:19.1.0'
   implementation 'com.google.android.gms:play-services-ads:21.3.0'
   implementation 'com.tuyenmonkey:mkloader:1.4.0'
